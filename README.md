@@ -5,7 +5,7 @@
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-ready-blue.svg)](https://kubernetes.io/)
 
-> **Advanced automated trading and arbitrage bot for Solana and Ethereum with statistical arbitrage strategies and NLP-powered sentiment analysis.**
+> **Advanced automated trading and arbitrage bot for Solana and Ethereum with statistical arbitrage strategies and LLMs-powered sentiment analysis.**
 
 
 ## 🎯 Overview
@@ -79,7 +79,7 @@ This is a sophisticated crypto trading bot that combines **statistical arbitrage
 
 - **`src/data_collector.py`**: Multi-source data ingestion with WebSocket streaming
 - **`src/strategy/stat_arb.py`**: Statistical arbitrage with cointegration analysis
-- **`src/strategy/sentiment.py`**: LLM sentiment analysis with VADER and GPT-3.5-turbo
+- **`src/strategy/sentiment.py`**: LLM sentiment analysis
 - **`src/strategy/signal_generator.py`**: Advanced signal combination and portfolio optimization
 - **`src/execution/order_manager.py`**: Order execution with retry logic and slippage handling
 - **`src/execution/risk_manager.py`**: Comprehensive risk controls and event tracking
