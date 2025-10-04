@@ -1,16 +1,11 @@
 # 🚀 Crypto Trading & Arbitrage Bot
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-ready-blue.svg)](https://kubernetes.io/)
-
-> **Advanced automated trading and arbitrage bot for Solana and Ethereum with statistical arbitrage strategies and LLMs-powered sentiment analysis.**
+> **automated trading and arbitrage bot for Solana and Ethereum with statistical arbitrage strategies and LLMs-powered sentiment analysis.**
 
 
 ## 🎯 Overview
 
-This is a sophisticated crypto trading bot that combines **statistical arbitrage** with **LLM-powered sentiment analysis** to identify and execute profitable trading opportunities. The bot supports multiple exchanges, real-time data collection, advanced risk management, and cloud-ready deployment.
+This is a crypto trading bot that combines **statistical arbitrage** with **LLM-powered sentiment analysis** to identify and execute profitable trading opportunities. The bot supports multiple exchanges, real-time data collection, advanced risk management, and cloud-ready deployment. 
 
 ### Key Capabilities
 
